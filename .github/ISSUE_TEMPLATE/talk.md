@@ -2,7 +2,7 @@
 name: Talk
 about: Submit a talk idea to participating meetups.
 title: ''
-labels: talk
+labels: request, talk
 assignees: ''
 
 ---
