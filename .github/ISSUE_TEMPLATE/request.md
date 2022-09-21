@@ -1,6 +1,6 @@
 ---
 name: Request
-about: Submit a talk idea to participating meetups.
+about: Submit a request for talks on a given topic
 title: ''
 labels: request
 assignees: ''
