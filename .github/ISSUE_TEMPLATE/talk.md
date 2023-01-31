@@ -21,14 +21,14 @@ jordan@codetrack.dev
 
 Self-taught software engineer with 7 years of experience. For the last two years I have worked as an instructor teaching at Pursuit.org. Prior to that I worked at B&H Photo as a Front End Engineer.
 
-In my free time, I've developed (CodeTrack)[https://www.codetrack.dev/], a free platform for guiding and tracking developers to career success. 
+In my free time, I've developed [CodeTrack](https://www.codetrack.dev/), a free platform for guiding and tracking developers to career success. 
 
 ## Your Talk
 
 **Title:**
-Here are some options: 
-1.) Leading With Your Work: How to get Interviews with no Resume
-2.) CodeTrack: How I Built This
+Options: 
+1. Leading With Your Work: How to get Interviews with No Resume
+2. CodeTrack: How I Built This
 
 **What your talk is about:**
 
