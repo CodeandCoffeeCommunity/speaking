@@ -23,6 +23,9 @@ assignees: ''
 
 **What your talk is about:**
 
+
+**Meetup event description text(optional):**
+
 **How long will your talk be?**
 - [ ] 5-15 minutes (lightning talk)
 - [ ] 20-30 minutes
