@@ -24,8 +24,6 @@ assignees: ''
 **What your talk is about:**
 
 
-**Meetup event description text(optional):**
-
 **How long will your talk be?**
 - [ ] 5-15 minutes (lightning talk)
 - [ ] 20-30 minutes
@@ -37,3 +35,8 @@ assignees: ''
 **Do you need help crafting your talk?**
 - [ ] Yes
 - [ ] No
+
+## Meetup event Copy
+**Event Title:**   
+  
+**Event Desciption:**  
