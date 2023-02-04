@@ -36,7 +36,7 @@ assignees: ''
 - [ ] Yes
 - [ ] No
 
-## Meetup event Copy
+## Meetup event Copy - Optional
 **Event Title:**   
   
 **Event Desciption:**  
