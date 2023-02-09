@@ -20,6 +20,6 @@ At Code & Coffee, we're here to make friends and grow. This is a process where w
 
 ## FAQ
 - I haven't gotten a response on my app and it's been 3 days! Who can I contact?
-    - Dana Lee at theoriginaldanalee@gmail.com and Steve @ steve@codeandcoffee.org
+    - Dana Lee at theoriginaldanalee@gmail.com and Steve at steve@codeandcoffee.org
 - Why do we have to submit a ticket through the Github repo?
     - Based on our learnings in the DCTech space, we want to continue to serve openly and be community-led(v. company-led) We provide a friendly atmosphere and community for any developer wishing to practice speaking or workshop a talk, to grow. More importantly, it helps us be organized for upcoming events.
