@@ -16,3 +16,9 @@ At Code & Coffee, we're here to make friends and grow. This is a process where w
         1. Outline thru what they plan on giving a talk about(< 5mins)
 4. Meetup event posted and posted in New York Code & Coffee - Events calendar(Steven G)
 5. Speaker notes posted by the speaker on Meetup after
+
+## FAQ
+- I haven't gotten a response on my app and it's been 3 days! Who can I contact?
+    - Dana Lee at theoriginaldanalee@gmail.com and Steve @ stevehchenweb@gmail.com
+- Why do we have to submit a ticket through the Github repo?
+    - Based on our learnings in the DCTech space, we want to continue to serve openly and be community-led(v. company-led) We provide a friendly atmosphere and community for any developer wishing to practice speaking or workshop a talk, to grow. More importantly, it helps us be organized for upcoming events.
