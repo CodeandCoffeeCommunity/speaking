@@ -1,7 +1,7 @@
 # [Code & Coffee](https://www.codeandcoffee.org) Speakers Program 
-Led by Dana Lee
+Led by Director of Speaker Engagement [Dana Lee](https://www.linkedin.com/in/danalee1/).
 
-At Code & Coffee, we're here to make friends and grow. This is a process where we have community mmebers interested in speaking to give a tech talk on whatever they may find interesting. 
+At Code & Coffee, we're here to make friends and grow. This is a process where we have community mmebers interested in speaking to give a tech talk on whatever they may find interesting!
 
 ## Current Talk Submission Process
 1. Direct prospective speakers to create NEW ISSUE on the Issues tab. Fill out the template given.
