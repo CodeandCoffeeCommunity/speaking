@@ -1,4 +1,4 @@
-# [Code & Coffee](https://www.codeandcoffee.org) Speakers Program 
+# Code & Coffee Speakers Program 
 Led by Director of Speaker Engagement [Dana Lee](https://www.linkedin.com/in/danalee1/).
 
 At Code & Coffee, we're here to make friends and grow. This is a process where we have community mmebers interested in speaking to give a tech talk on whatever they may find interesting!
