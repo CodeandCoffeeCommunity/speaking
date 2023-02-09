@@ -1,5 +1,5 @@
-# Speakers Program
-Led by Dana Lee and Code & Coffee
+# [Code & Coffee](https://www.codeandcoffee.org) Speakers Program 
+Led by Dana Lee
 
 At Code & Coffee, we're here to make friends and grow. This is a process where we have community mmebers interested in speaking to give a tech talk on whatever they may find interesting. 
 
