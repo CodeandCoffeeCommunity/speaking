@@ -23,3 +23,11 @@ At Code & Coffee, we're here to make friends and grow. This is a process where w
     - Dana Lee at theoriginaldanalee@gmail.com and Steve at steve@codeandcoffee.org
 - Why do we have to submit a ticket through the Github repo?
     - Based on our learnings in the DCTech space, we want to continue to serve openly and be community-led(v. company-led) We provide a friendly atmosphere and community for any developer wishing to practice speaking or workshop a talk, to grow. More importantly, it helps us be organized for upcoming events.
+
+
+# Hall of Speakers
+- Desiree Wysocki
+- Jimmy Byess
+- Joseph Polanco
+- Jordan Manley
+- Charles Inwald
