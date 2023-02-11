@@ -25,9 +25,10 @@ At Code & Coffee, we're here to make friends and __grow__. To aid in growth, we 
     - Based on our learnings in the DCTech space, we want to continue to serve openly and be community-led(v. company-led) We provide a friendly atmosphere and community for any developer wishing to practice speaking or workshop a talk, to grow. More importantly, it helps us be organized for upcoming events.
 
 
-# Hall of Speakers
+# Fantastic folks that have given talks
 - Desiree Wysocki
 - Jimmy Byess
 - Joseph Polanco
 - Jordan Manley
 - Charles Inwald
+- Casey Watts!
