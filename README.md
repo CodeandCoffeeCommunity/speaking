@@ -10,11 +10,11 @@ At Code & Coffee, we're here to make friends and __grow__. To aid in growth, we 
     1. If yes
         1. Structure
         2. Scaffold for experience levels
-        3.Set a time for when they’re comfortable with a dry run
+        3.Set a time for when you’re comfortable with a dry run
         4. Schedule when they will have a talk
         5. Day and timing
     2. If no
-        1. Outline thru what they plan on giving a talk about(< 5mins)
+        1. Outline of what you plan on giving a talk about(< 5-25mins)
 4. Meetup event posted and posted in New York Code & Coffee - Events calendar(Steven G)
 5. Speaker notes posted by the speaker on Meetup after
 
