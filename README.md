@@ -18,17 +18,12 @@ At Code & Coffee, we're here to make friends and __grow__. To aid in growth, we 
 4. Meetup event posted and posted in New York Code & Coffee - Events calendar(Steven G)
 5. Speaker notes posted by the speaker on Meetup after
 
+## Speakers program leaders and their emails
+- NYC: Dana Lee [theoriginaldanalee@gmail.com](theoriginaldanalee@gmail.com)
+- Boston: Brian Towne [bjtowne9@gmail.com](bjtowne9@gmail.com)
+
 ## FAQ
 - I haven't gotten a response on my app and it's been 3 days! Who can I contact?
-    - Dana Lee at theoriginaldanalee@gmail.com and Steve at steve@codeandcoffee.org
+    - The speaker program leaders above! If none are responding feel free to hit up steve@codeandcoffee.org
 - Why do we have to submit a ticket through the Github repo?
     - Based on our learnings in the DCTech space, we want to continue to serve openly and be community-led(v. company-led) We provide a friendly atmosphere and community for any developer wishing to practice speaking or workshop a talk, to grow. More importantly, it helps us be organized for upcoming events.
-
-
-# Fantastic folks that have given talks
-- Desiree Wysocki
-- Jimmy Byess
-- Joseph Polanco
-- Jordan Manley
-- Charles Inwald
-- Casey Watts!
