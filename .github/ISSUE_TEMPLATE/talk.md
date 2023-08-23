@@ -15,8 +15,6 @@ assignees: ''
 
 **The best way to reach out to you:**
 
-**A quick bio:**
-
 ## Your Talk
 
 **Title:**
