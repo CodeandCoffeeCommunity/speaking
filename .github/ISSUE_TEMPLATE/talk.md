@@ -31,7 +31,7 @@ assignees: ''
 
 
 ## Meetup event Copy - Optional
-This will show up on your Meetup.com Event page for your talk. [Example event page]([url](https://www.meetup.com/new-york-code-coffee/events/293109456/)).
+This will show up on your Meetup.com Event page for your talk. [Example event page](https://www.meetup.com/new-york-code-coffee/events/293109456/).
 
 **Event Title:**   
   
