@@ -11,7 +11,7 @@ assignees: ''
 
 **Your Name:**
 
-**Twitter handle (optional):** 
+**Twitter or Linkedin handle (optional):** 
 
 **The best way to reach out to you:**
 
