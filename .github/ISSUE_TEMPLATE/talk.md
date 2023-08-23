@@ -25,18 +25,16 @@ assignees: ''
 
 
 **How long will your talk be?**
-- [ ] 5-15 minutes (lightning talk)
 - [ ] 20-30 minutes
 - [ ] 30-45 minutes
 - [ ] 60 minutes or more
 
-## Meta
-
-**Do you need help crafting your talk?**
-- [ ] Yes
-- [ ] No
 
 ## Meetup event Copy - Optional
+This will show up on your Meetup.com Event page for your talk. [Example event page]([url](https://www.meetup.com/new-york-code-coffee/events/293109456/)).
+
 **Event Title:**   
   
-**Event Desciption:**  
+**Event Description:**  
+
+**Speaker Bio**
