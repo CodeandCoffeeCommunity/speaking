@@ -37,4 +37,4 @@ This will show up on your Meetup.com Event page for your talk. [Example event pa
   
 **Event Description:**  
 
-**Speaker Bio**
+**Speaker Bio:**
