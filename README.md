@@ -6,11 +6,11 @@ At Code & Coffee, we're here to make friends and __grow__. To aid in growth, we 
 ## The Current Talk Submission Process
 1. Direct prospective speakers to create NEW ISSUE on the Issues tab. Fill out the template given.
 2. Dana to respond within the week (goal is within 2 days)
-3. Dana will set up an initial call to discuss
-        1. Objectives & Structure of the talk
-        2. Differentiating for varying experience levels
-        3. Ways to make the talk more engaging
-        4. Schedule a tentative date/time for the talk
+3. Dana will set up an initial call to discuss  
+        1. Objectives & Structure of the talk  
+        2. Differentiating for varying experience levels  
+        3. Ways to make the talk more engaging  
+        4. Schedule a tentative date/time for the talk  
 4. Dana will set up a final call for a dry run & confirm date/time
 5. Meetup event posted and announced in New York Code & Coffee - Events calendar(Dana)
 6. Speaker notes posted by the speaker on Meetup after
