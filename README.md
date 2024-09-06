@@ -1,22 +1,22 @@
 # Code & Coffee Speakers Program 
-Led by Director of Speaker Engagement [Dana Lee](https://www.linkedin.com/in/danalee1/).
+Led by Director of Speaker Engagement [Raisa Dorzback](https://www.linkedin.com/in/raisa-d/).
 
 At Code & Coffee, we're here to make friends and __grow__. To aid in growth, we have a speakers program where community members interested in giving a talk can give a tech talk on whatever they may find interesting!
 
 ## The Current Talk Submission Process
 1. Direct prospective speakers to create NEW ISSUE on the Issues tab. Fill out the template given.
-2. Dana to respond within the week (goal is within 2 days)
-3. Dana will set up an initial call to discuss  
+2. Raisa to respond within the week (goal is within 2 days)
+3. Raisa will set up an initial call to discuss  
         1. Objectives & Structure of the talk  
         2. Differentiating for varying experience levels  
         3. Ways to make the talk more engaging  
         4. Schedule a tentative date/time for the talk  
-4. Dana will set up a final call for a dry run & confirm date/time
+4. Raisa will set up a final call for a dry run & confirm date/time
 5. Meetup event posted and announced in New York Code & Coffee - Events calendar(Dana)
 6. Speaker notes posted by the speaker on Meetup after
 
 ## Speakers program leaders and their emails
-- NYC: Dana Lee [theoriginaldanalee@gmail.com](theoriginaldanalee@gmail.com)
+- NYC: Raisa Dorzback [raisa.dorzback@gmail.com](raisa.dorzback@gmail.com)
 - Boston: Brian Towne [bjtowne9@gmail.com](bjtowne9@gmail.com)
 
 ## FAQ
